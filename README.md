@@ -38,13 +38,13 @@
 ###  Beyond the IDE
 
 *   **Competitive Programming:** Consistently grinding advanced data structures, binary trees, and optimization algorithms. 
-*   **Gaming:** When I'm not writing Python or C++, I'm usually ranking up in Apex Legends (currently Rank 27), dropping into Titanfall 2, or running through God of War Ragnarök with my EvoFox One S.
+<!-- *   **Gaming:** When I'm not writing Python or C++, I'm usually ranking up in Apex Legends (currently Rank 27), dropping into Titanfall 2, or running through God of War Ragnarök with my EvoFox One S. -->
 
 ---
-
+<!-- 
 ###  GitHub Metrics
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=PadmanavaParui&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PadmanavaParui&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
-</div>
+</div> -->
